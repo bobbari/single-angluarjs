@@ -1,2 +1,2 @@
 # single-angluarjs
-coursera-singlepage-angularjs
+singlepage-angularjs
